@@ -66,7 +66,8 @@ To explore the analysis locally, follow these steps:
 
 4. **Heatmap**:
 
-<img src="images/newplot.png" alt="Dashboard" width="500">
+![GlobalTerrorism---EDA](images/heatmap.png)
+
 
 ## Future Scope
 - Deep dive into factors influencing terrorism trends.
