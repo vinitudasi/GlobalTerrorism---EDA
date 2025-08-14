@@ -66,7 +66,8 @@ To explore the analysis locally, follow these steps:
 
 4. **Heatmap**:
 
-![GlobalTerrorism---EDA](images/newplot.png)
+![New Plot](https://github.com/vinitudasi/GlobalTerrorism---EDA/blob/main/image/newplot.png)
+
 
 
 ## Future Scope
