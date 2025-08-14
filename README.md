@@ -64,10 +64,17 @@ To explore the analysis locally, follow these steps:
    jupyter notebook Task5.ipynb
    ```
 
+4. **Heatmap**:
+
+<img src="images/newplot.png" alt="Dashboard" width="500">
+
 ## Future Scope
 - Deep dive into factors influencing terrorism trends.
 - Predictive analysis for assessing potential future incidents.
 - Enhanced interactive dashboards using advanced tools like Tableau or Power BI.
+
+
+
 
 ## Contributing
 Contributions are welcome! Fork the repository, make changes, and submit a pull request.
