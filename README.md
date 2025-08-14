@@ -66,7 +66,7 @@ To explore the analysis locally, follow these steps:
 
 4. **Heatmap**:
 
-![GlobalTerrorism---EDA](images/heatmap.png)
+![GlobalTerrorism---EDA](images/newplot.png)
 
 
 ## Future Scope
